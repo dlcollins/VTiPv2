@@ -1,0 +1,8 @@
+IP Installed 192.168.1.206
+*1000 Could not open Video Source
+*5005 Socket Read shows a disconnect
+*5005 Socket Read shows a disconnect
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
+VT IP Respond Received
+*5005 Socket Read shows a disconnect
